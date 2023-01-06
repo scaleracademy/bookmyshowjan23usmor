@@ -43,3 +43,15 @@ namanbhalla=#
 // 1. Rep everything as Entity
 // 2. Mapped Superclass
 // 3. Represent cardinality of associations -> BREAK till 9:03 AM
+
+
+// POST /ticket -> TicketController -> CRUD on a model
+// POST /book -> BookingController
+
+{
+  status: {
+     code:  ,
+     message: ,
+  }
+
+}
